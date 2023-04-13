@@ -2,6 +2,7 @@
 First Week "Create a simple chatbot using python"
 
 take 01: chatbot
+
 A chatbot is an artificial intelligence (AI) program that creates conversational interaction between the chatbot and another user through voice commands or text chats.
 What Is a Chatbot?
 A chatbot is a computer program that simulates human conversation through voice commands or text chats or both. Chatbot, short for chatterbot, is an artificial intelligence (AI) feature that can be embedded and used through any major messaging application.
